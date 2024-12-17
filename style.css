@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: orange;
+}
+
+.wrapper{
+    background-color: white;
+    overflow: hidden;
+    margin: 40px;
+    width: 1050px;
+    margin: 30px auto;
+}
+
+.photo {
+    width: 100%;
+}
+
+.block{
+    margin: 20px 0 10px 99px;
+}
+
+.sitename{
+    margin-bottom: 10px;
+    font: 20px Arial;
+}
+
+nav{
+    display: flex;
+}
+
+nav a{
+    padding: 57px;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+
+.container{
+    background-color: white;
+    overflow: hidden;
+    margin: 40px;
+    width: 850px;
+    margin: 30px auto;
+}
